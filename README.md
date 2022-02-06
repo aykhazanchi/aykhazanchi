@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Ayushman Khazanchi 👋
 
-<!--
-**aykhazanchi/aykhazanchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software and DevOps engineer. Currently, I am also a graduate student at KTH Royal Institute of Technology in Stockholm, Sweden studying Software Engineering of Distributed Systems. I am interested in distributed, full-stack, and cloud development. Before KTH, I worked at Oracle in cloud engineering.
 
-Here are some ideas to get you started:
+In the near future I want to 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 work on tiny projects
+- 🧗 get better at climbing
+- 🚄 explore more of the EU
+- ✍️ write more blog posts
+- 📖 read more books
+- 📷 compile my photo projects
+
+See more
+- [Website](https://akzn.me)
+- [Linkedin](https://linkedin.com/in/aykhazanchi)
+- [Instagram](https://instagram.com/aykhazanchi)
