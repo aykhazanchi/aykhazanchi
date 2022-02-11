@@ -6,10 +6,8 @@ In the near future I want to
 
 - 💻 work on tiny projects
 - 🧗 get better at climbing
-- 🚄 explore more of the EU
 - ✍️ write more blog posts
-- 📖 read more books
-- 📷 compile my photo projects
+- 🚄 explore the EU
 
 See more
 - [Website](https://akzn.me)
