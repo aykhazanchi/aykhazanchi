@@ -12,4 +12,3 @@ In the near future I want to
 See more
 - [Website](https://akzn.me)
 - [Linkedin](https://linkedin.com/in/aykhazanchi)
-- [Instagram](https://instagram.com/aykhazanchi)
